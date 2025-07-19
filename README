@@ -1,25 +1,25 @@
- **Diabetes Prediction using Machine Learning**
+# **Diabetes Prediction Using Machine Learning**
 
 This project uses the Pima Indians Diabetes dataset to predict the likelihood of diabetes using Logistic Regression and Random Forest.
 
-**Project Features**
-- Data exploration & preprocessing
-- Logistic Regression and Random Forest models
-- Accuracy evaluation and confusion matrices
-- Bar chart comparison
-- Conclusion & medical interpretation
+## **Project Features**
+- Data Exploration & Preprocessing
+- Logistic Regression and Random Forest Models
+- Accuracy Evaluation and Confusion Matrices
+- Bar Chart Comparison
+- Conclusion & Medical Interpretation
 
-**Results**
-- Logistic Regression Accuracy: **76.00%**
-- Random Forest Accuracy: **72.09%**
-- Logistic Regression performed better for this dataset.
+## **Results**
+- Logistic Regression Accuracy: **76.62%**
+- Random Forest Accuracy: **76.62%**
+- Logistic Regression is preferred due to simplicity and equal performance
 
-**Files**
+## **Files**
 - `diabetes-prediction.ipynb`: Source code notebook
 - `diabetes.csv`: Dataset used
 - `diabetes-prediction.pdf`: Final formatted report
 - `requirements.txt`: Libraries used
 
-**Author**
+## **Author**
 Developed by **Azib Malick**  
 © 2025 Azib Malick. All rights reserved.
